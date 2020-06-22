@@ -1,0 +1,3182 @@
+*{margin: 0; padding: 0;}
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+	body{
+		background-color: black;
+		width:100%;
+		height:200vh;
+	}
+	.mont{
+		color: white;
+		
+	}
+		.mont:hover{
+			color: blue;
+			transition: all .6s ease;
+			background-color:  #f2f2f2;
+		}
+		.xm{
+			 border-radius: 70px 90px;
+			 border:3px dotted white;
+		}
+		.xm:hover{
+			border:3px dotted red;
+		}
+.his{
+	text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 200px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	animation: aagepiche 4s linear infinite;
+	animation-direction: alternate;
+}
+@keyframes aagepiche{
+	from{padding-left: 120px;}
+	to{padding-right: 30px;}
+}
+.hit1{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit1:hover{background-color: white;
+color: black;
+}
+.hit2{
+	text-transform: uppercase;
+	transition: all .5s ease;
+	text-decoration: none;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit2:hover{background-color: white;
+color: black;
+}
+.hit3{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit3:hover{background-color: white;
+color: black;
+}
+.hit4{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit4:hover{background-color: white;
+color: black;
+}
+.hit5{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit5:hover{background-color: white;
+color: black;
+}
+.hit6{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit6:hover{background-color: white;
+color: black;
+}
+.hit7{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit7:hover{background-color: white;
+color: black;
+}
+.hit8{
+	text-transform: uppercase;
+		text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit8:hover{background-color: white;
+color: black;
+}
+.hii{
+	float:right;
+	color: white;
+}
+.xm{
+	float: right;
+}
+.sii{
+	color: white;
+	font-size: 2rem;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.botton{
+
+	display: flex;
+	width:30%;
+	padding-left: 80px;
+	padding-top: 60px;
+	font-size: 1rem;
+	color: white;
+	justify-content: space-around;
+}
+.navee{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.navee:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.baapu{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.baapu:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.bhim{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.bhim:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.sis{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.sis:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.lin{
+		color: white;
+		padding-left: 610px;
+		font-size: 1.8rem;
+	}
+	.lim{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.lim:hover{
+		background-color: red;
+	}
+	._title{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.mim{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.mim:hover{
+		background-color: red;
+
+	}
+	._title1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.gim{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.gim:hover{
+		background-color: red;
+
+	}
+	._title2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.nin{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.nin:hover{
+		background-color: red;
+
+	}
+	._title3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		}
+	.Date3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.pin{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.pin:hover{
+		background-color: red;
+
+	}
+	._title4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.sin{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.sin:hover{
+		background-color: red;
+
+	}
+	._title5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.qin{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.qin:hover{
+		background-color: red;
+
+	}
+	._title6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.win{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.win:hover{
+		background-color: red;
+
+	}
+	._title7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.ein{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.ein:hover{
+		background-color: red;
+
+	}
+	._title8{
+		color: white;
+		text-decoration: none;
+		color: white;
+	
+	}
+	.Date8{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.rin{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.rin:hover{
+		background-color: red;
+
+	}
+	._title9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.tin{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.3rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.tin:hover{
+		background-color: red;
+
+	}
+	._title10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+}
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+		body{
+		background-color: black;
+		width:100%;
+		height:165vh;
+	}
+	.mont{
+		color: white;
+		font-size: 2rem;
+
+		
+	}
+	.hii{
+		font-size: 2rem;
+		padding-top: 60px;
+	}
+		.mont:hover{
+			color: blue;
+			transition: all .6s ease;
+			background-color:  #f2f2f2;
+		}
+		.xm{
+			 border-radius: 70px 90px;
+			 border:3px dotted white;
+		}
+		.xm:hover{
+			border:3px dotted red;
+		}
+.his{
+	text-transform: uppercase;
+	width:75%;
+	display: flex;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.5rem;
+	
+}
+
+.hit1{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit1:hover{background-color: white;
+color: black;
+}
+.hit2{
+	text-transform: uppercase;
+	transition: all .5s ease;
+	text-decoration: none;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit2:hover{background-color: white;
+color: black;
+}
+.hit3{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit3:hover{background-color: white;
+color: black;
+}
+.hit4{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit4:hover{background-color: white;
+color: black;
+}
+.hit5{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit5:hover{background-color: white;
+color: black;
+}
+.hit6{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit6:hover{background-color: white;
+color: black;
+}
+.hit7{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit7:hover{background-color: white;
+color: black;
+}
+.hit8{
+	text-transform: uppercase;
+		text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit8:hover{background-color: white;
+color: black;
+}
+.hii{
+	float:right;
+	color: white;
+}
+.xm{
+	float: right;
+}
+.sii{
+	color: white;
+	font-size: 2rem;
+	padding-top: 650px;
+	padding-left: 100px;
+}
+.botton{
+
+	display: flex;
+	width:90%;
+	padding-left: 60px;
+	padding-top: 60px;
+	font-size: 1.7rem;
+	color: white;
+	justify-content: space-around;
+}
+.navee{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.navee:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.baapu{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.baapu:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.bhim{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.bhim:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.sis{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.sis:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.lin{
+		color: white;
+		padding-left: 430px;
+		font-size: 1.9rem;
+	}
+	.lim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.lim:hover{
+		background-color: red;
+	}
+	._title{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.mim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.mim:hover{
+		background-color: red;
+
+	}
+	._title1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.gim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.gim:hover{
+		background-color: red;
+
+	}
+	._title2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.nin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.nin:hover{
+		background-color: red;
+
+	}
+	._title3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		}
+	.Date3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.pin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.pin:hover{
+		background-color: red;
+
+	}
+	._title4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.sin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.sin:hover{
+		background-color: red;
+
+	}
+	._title5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.qin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.qin:hover{
+		background-color: red;
+
+	}
+	._title6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.win{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.win:hover{
+		background-color: red;
+
+	}
+	._title7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.ein{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.ein:hover{
+		background-color: red;
+
+	}
+	._title8{
+		color: white;
+		text-decoration: none;
+		color: white;
+	
+	}
+	.Date8{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.rin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.rin:hover{
+		background-color: red;
+
+	}
+	._title9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.tin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 260px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.tin:hover{
+		background-color: red;
+
+	}
+	._title10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	}
+	/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+		body{
+		background-color: black;
+		width:100%;
+		height:200vh;
+	}
+	.mont{
+		color: white;
+		font-size: 1.6rem;
+
+		
+	}
+	.hii{
+		font-size: 2rem;
+		padding-top: 30px;
+		padding-left: 60px;
+	}
+		.mont:hover{
+			color: blue;
+			transition: all .6s ease;
+			background-color:  #f2f2f2;
+		}
+		.xm{
+			 border-radius: 70px 90px;
+			 border:3px dotted white;
+		}
+		.xm:hover{
+			border:3px dotted red;
+		}
+.his{
+	text-transform: uppercase;
+	width:75%;
+	display: flex;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	
+}
+
+.hit1{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit1:hover{background-color: white;
+color: black;
+}
+.hit2{
+	text-transform: uppercase;
+	transition: all .5s ease;
+	text-decoration: none;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit2:hover{background-color: white;
+color: black;
+}
+.hit3{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit3:hover{background-color: white;
+color: black;
+}
+.hit4{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit4:hover{background-color: white;
+color: black;
+}
+.hit5{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit5:hover{background-color: white;
+color: black;
+}
+.hit6{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit6:hover{background-color: white;
+color: black;
+}
+.hit7{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit7:hover{background-color: white;
+color: black;
+}
+.hit8{
+	text-transform: uppercase;
+		text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit8:hover{background-color: white;
+color: black;
+}
+.hii{
+	float:right;
+	color: white;
+}
+.xm{
+	float: right;
+	width: 740px;
+
+}
+.sii{
+	color: white;
+	font-size: 2rem;
+	padding-top: 650px;
+	padding-left: 100px;
+}
+.botton{
+
+	display: flex;
+	width:90%;
+	padding-left: 60px;
+	padding-top: 60px;
+	font-size: 1.7rem;
+	color: white;
+	justify-content: space-around;
+}
+.navee{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.navee:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.baapu{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.baapu:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.bhim{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.bhim:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.sis{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.sis:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.lin{
+		color: white;
+		padding-left: 280px;
+		font-size: 1.9rem;
+	}
+	.lim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.lim:hover{
+		background-color: red;
+	}
+	._title{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.mim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.mim:hover{
+		background-color: red;
+
+	}
+	._title1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.gim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.gim:hover{
+		background-color: red;
+
+	}
+	._title2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.nin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.nin:hover{
+		background-color: red;
+
+	}
+	._title3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		}
+	.Date3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.pin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.pin:hover{
+		background-color: red;
+
+	}
+	._title4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.sin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.sin:hover{
+		background-color: red;
+
+	}
+	._title5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.qin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.qin:hover{
+		background-color: red;
+
+	}
+	._title6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.win{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.win:hover{
+		background-color: red;
+
+	}
+	._title7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.ein{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.ein:hover{
+		background-color: red;
+
+	}
+	._title8{
+		color: white;
+		text-decoration: none;
+		color: white;
+	
+	}
+	.Date8{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.rin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 190px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.rin:hover{
+		background-color: red;
+
+	}
+	._title9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.tin{
+		text-transform: uppercase;
+	display: flex;
+	width:80%;
+	padding-left: 162px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.tin:hover{
+		background-color: red;
+
+	}
+	._title10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+			body{
+		background-color: black;
+		width:100%;
+		height:200vh;
+	}
+	.mont{
+		color: white;
+		font-size: 1.6rem;
+
+		
+	}
+	.hii{
+		font-size: 2rem;
+		padding-top: 30px;
+		padding-left: 60px;
+	}
+		.mont:hover{
+			color: blue;
+			transition: all .6s ease;
+			background-color:  #f2f2f2;
+		}
+		.xm{
+			 border-radius: 70px 90px;
+			 border:3px dotted white;
+		}
+		.xm:hover{
+			border:3px dotted red;
+		}
+.his{
+	text-transform: uppercase;
+	width:75%;
+	display: flex;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.6rem;
+	
+}
+
+.hit1{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit1:hover{background-color: white;
+color: black;
+}
+.hit2{
+	text-transform: uppercase;
+	transition: all .5s ease;
+	text-decoration: none;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit2:hover{background-color: white;
+color: black;
+}
+.hit3{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: white;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit3:hover{background-color: white;
+color: black;
+}
+.hit4{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit4:hover{background-color: white;
+color: black;
+}
+.hit5{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit5:hover{background-color: white;
+color: black;
+}
+.hit6{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit6:hover{background-color: white;
+color: black;
+}
+.hit7{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color:  white;
+}
+.hit7:hover{background-color: white;
+color: black;
+}
+.hit8{
+	text-transform: uppercase;
+		text-decoration: none;
+	color: white;
+	transition: all .5s ease;
+	border:2px dotted white;
+	border-radius: 5px;
+	background-color: black;
+	border-color: white;
+}
+.hit8:hover{background-color: white;
+color: black;
+}
+.hii{
+	float:right;
+	color: white;
+}
+.xm{
+	float: right;
+	width: 1000px;
+
+}
+.sii{
+	color: white;
+	font-size: 2rem;
+	padding-top: 650px;
+	padding-left: 100px;
+}
+.botton{
+
+	display: flex;
+	width:90%;
+	padding-left: 60px;
+	padding-top: 60px;
+	font-size: 1.7rem;
+	color: white;
+	justify-content: space-around;
+}
+.navee{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.navee:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.baapu{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.baapu:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.bhim{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.bhim:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.sis{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.sis:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.lin{
+		color: white;
+		padding-left: 390px;
+		font-size: 1.9rem;
+	}
+	.lim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.lim:hover{
+		background-color: red;
+	}
+	._title{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.mim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.mim:hover{
+		background-color: red;
+
+	}
+	._title1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.gim{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.gim:hover{
+		background-color: red;
+
+	}
+	._title2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.nin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.nin:hover{
+		background-color: red;
+
+	}
+	._title3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		}
+	.Date3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.pin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.pin:hover{
+		background-color: red;
+
+	}
+	._title4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.sin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.sin:hover{
+		background-color: red;
+
+	}
+	._title5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.qin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.qin:hover{
+		background-color: red;
+
+	}
+	._title6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.win{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.win:hover{
+		background-color: red;
+
+	}
+	._title7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.ein{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.ein:hover{
+		background-color: red;
+
+	}
+	._title8{
+		color: white;
+		text-decoration: none;
+		color: white;
+	
+	}
+	.Date8{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.rin{
+		text-transform: uppercase;
+	display: flex;
+	width:75%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.rin:hover{
+		background-color: red;
+
+	}
+	._title9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.tin{
+		text-transform: uppercase;
+	display: flex;
+	width:80%;
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.7rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.tin:hover{
+		background-color: red;
+
+	}
+	._title10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+		body{
+		background-color: black;
+		width:100%;
+		height:200vh;
+	}
+	.mont{
+		color: white;
+		font-size: 1rem;
+
+		
+	}
+	.hii{
+		font-size: 1.5rem;
+		padding-top: 30px;
+		padding-left: 0px;
+	}
+		.mont:hover{
+			color: blue;
+			transition: all .6s ease;
+			background-color:  #f2f2f2;
+		}
+		.xm{
+			 border-radius: 70px 90px;
+			 border:3px dotted white;
+			
+			height: 400px;
+		}
+		.xm{
+	float: right;
+	width: 460px;
+
+}
+		.xm:hover{
+			border:3px dotted red;
+		}
+.his{
+	text-transform: uppercase;
+	width:0%;
+	display: flex;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 0.7rem;
+	
+}
+
+.hit1{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: black;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color: black;
+}
+.hit1:hover{background-color: white;
+color: red;
+}
+.hit2{
+	text-transform: uppercase;
+	transition: all .5s ease;
+	text-decoration: none;
+	color:  black;
+	border:1px dotted white;
+	border-radius: 5px;
+		background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit2:hover{background-color: white;
+color: red;
+}
+.hit3{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color:  black;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color: black;
+}
+.hit3:hover{background-color: white;
+color: red;
+}
+.hit4{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit4:hover{background-color: white;
+color: red;
+}
+.hit5{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit5:hover{background-color: white;
+color: red;
+}
+.hit6{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit6:hover{background-color: white;
+color: red;
+}
+.hit7{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit7:hover{background-color: white;
+color: red;
+}
+.hit8{
+	text-transform: uppercase;
+		text-decoration: none;
+	color: black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color: black;
+}
+.hit8:hover{background-color: white;
+color: red;
+}
+.hii{
+	float:right;
+	color: white;
+}
+
+.sii{
+	color: white;
+	font-size: 2rem;
+	padding-top: 450px;
+	padding-left: 100px;
+}
+.botton{
+
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 60px;
+	font-size: 1rem;
+	color: white;
+	justify-content: space-around;
+}
+.navee{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.navee:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.baapu{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.baapu:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.bhim{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.bhim:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.sis{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.sis:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.lin{
+		color: white;
+		padding-left: 140px;
+		font-size: 1.9rem;
+	}
+	.lim{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.lim:hover{
+		background-color: red;
+	}
+	._title{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.mim{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.mim:hover{
+		background-color: red;
+
+	}
+	._title1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.gim{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.gim:hover{
+		background-color: red;
+
+	}
+	._title2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.nin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.nin:hover{
+		background-color: red;
+
+	}
+	._title3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		}
+	.Date3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.pin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.pin:hover{
+		background-color: red;
+
+	}
+	._title4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.sin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.sin:hover{
+		background-color: red;
+
+	}
+	._title5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.qin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.qin:hover{
+		background-color: red;
+
+	}
+	._title6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.win{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.win:hover{
+		background-color: red;
+
+	}
+	._title7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.ein{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.ein:hover{
+		background-color: red;
+
+	}
+	._title8{
+		color: white;
+		text-decoration: none;
+		color: white;
+	
+	}
+	.Date8{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.rin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.rin:hover{
+		background-color: red;
+
+	}
+	._title9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.tin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.tin:hover{
+		background-color: red;
+
+	}
+	._title10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	}
+	/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+		body{
+		background-color: black;
+		width:100%;
+		height:200vh;
+	}
+	.mont{
+		color: white;
+		font-size: 0.7rem;
+
+		
+	}
+	.hii{
+		font-size: 1rem;
+		padding-top: 30px;
+		padding-left: 0px;
+	}
+		.mont:hover{
+			color: blue;
+			transition: all .6s ease;
+			background-color:  #f2f2f2;
+		}
+		.xm{
+			 border-radius: 70px 90px;
+			 border:3px dotted white;
+			
+			height: 300px;
+		}
+		.xm{
+	float: right;
+	width: 298px;
+
+}
+		.xm:hover{
+			border:3px dotted red;
+		}
+.his{
+	text-transform: uppercase;
+	width:100%;
+	display:flex;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 0.5rem;
+	animation: aagepiche 4s linear infinite;
+	animation-direction: alternate;
+	
+}
+@keyframes aagepiche{
+	from{padding-left: 50px;}
+	to{padding-right: 50px;}
+}
+
+.hit1{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color: black;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color: black;
+}
+.hit1:hover{background-color: white;
+color: red;
+}
+.hit2{
+	text-transform: uppercase;
+	transition: all .5s ease;
+	text-decoration: none;
+	color:  black;
+	border:1px dotted white;
+	border-radius: 5px;
+		background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit2:hover{background-color: white;
+color: red;
+}
+.hit3{
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: all .5s ease;
+	color:  black;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color: black;
+}
+.hit3:hover{background-color: white;
+color: red;
+}
+.hit4{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit4:hover{background-color: white;
+color: red;
+}
+.hit5{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit5:hover{background-color: white;
+color: red;
+}
+.hit6{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit6:hover{background-color: white;
+color: red;
+}
+.hit7{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:  black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color:  black;
+}
+.hit7:hover{background-color: white;
+color: red;
+}
+.hit8{
+	text-transform: uppercase;
+		text-decoration: none;
+	color: black;
+	transition: all .5s ease;
+	border:1px dotted white;
+	border-radius: 5px;
+	background-color: #FFF0F5;
+	border-color: black;
+}
+.hit8:hover{background-color: white;
+color: red;
+}
+.hii{
+	float:right;
+	color: white;
+}
+
+.sii{
+	color: white;
+	font-size: 1.8rem;
+	padding-top: 350px;
+	padding-left: 30px;
+}
+.botton{
+
+	display: flex;
+	width:90%;
+	padding-left: 10px;
+	padding-top: 60px;
+	font-size: 0.6rem;
+	color: white;
+	justify-content: space-around;
+}
+.navee{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.navee:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.baapu{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.baapu:hover{
+	background-color:#708090;
+	transition: all .6s ease;
+	border:2px dotted white;
+}
+.bhim{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.bhim:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.sis{
+	text-decoration: none;
+	color: black;
+	border:2px dotted white;
+	border-radius: 5px;
+	font-family: 'Metal Mania', cursive;
+	background-color: white;
+	border-color: red;
+	transition: all .6s ease;
+}
+.sis:hover{
+	background-color:#708090;
+	border:2px dotted white;
+	}
+	.lin{
+		color: white;
+		padding-left: 45px;
+		font-size: 1.9rem;
+	}
+	.lim{
+		text-transform: uppercase;
+	display: flex;
+	width:100%;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.lim:hover{
+		background-color: red;
+	}
+	._title{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.mim{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.mim:hover{
+		background-color: red;
+
+	}
+	._title1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date1{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.gim{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.gim:hover{
+		background-color: red;
+
+	}
+	._title2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date2{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.nin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.nin:hover{
+		background-color: red;
+
+	}
+	._title3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		}
+	.Date3{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.pin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.pin:hover{
+		background-color: red;
+
+	}
+	._title4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date4{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.sin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.sin:hover{
+		background-color: red;
+
+	}
+	._title5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date5{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.qin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.qin:hover{
+		background-color: red;
+
+	}
+	._title6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date6{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.win{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.win:hover{
+		background-color: red;
+
+	}
+	._title7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.Date7{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.ein{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.ein:hover{
+		background-color: red;
+
+	}
+	._title8{
+		color: white;
+		text-decoration: none;
+		color: white;
+	
+	}
+	.Date8{
+		color: white;
+		text-decoration: none;
+		color: white;
+		
+	}
+	.rin{
+		text-transform: uppercase;
+	display: flex;
+	width:80%;
+	padding-left: 60px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.rin:hover{
+		background-color: red;
+
+	}
+	._title9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date9{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.tin{
+		text-transform: uppercase;
+	display: flex;
+	width:90%;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.1rem;
+	justify-content: space-around;
+	transition: all .6s ease;
+	}
+	.tin:hover{
+		background-color: red;
+
+	}
+	._title10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+	.Date10{
+		color: white;
+		text-decoration: none;
+		color: white;
+	}
+}
